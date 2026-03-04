@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Stacja naziemna</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Stacja Naziemna - Podglad z Kamery</h1>
+    <h2>Ostatnie zdjecie: </h2>
+    <div class="box">
+        <div>
+            <img class="image" id="last-image" src="/static/images/No_image_available.png" alt="Ostatnie zdjęcie">
+            <p class="description" id="last-description">Oczekiwanie na połączenie z samolotem...</p>
+            <p class="date" id="last-date"></p>
+        </div>
+    </div>
+
+
+    <script src="{{ url_for('static', filename='script.js')}}"></script>
+</body>
+</html>
