@@ -25,7 +25,7 @@ Jeżeli chcemy, aby programy działały na innym porcie niż ```5000```, to nale
 
 2. Przejście do folderu projektu
 
-- ```cd Zadanie-rekrutacyjne-AGH-Solar-Plane---System-Wizyjny```
+- ```cd Zadanie-rekrutacyjne-AGH-Solar-Plane---Stacja-Naziemna```
 
 3. Stworzenie środkowiska wirtualnego
 
