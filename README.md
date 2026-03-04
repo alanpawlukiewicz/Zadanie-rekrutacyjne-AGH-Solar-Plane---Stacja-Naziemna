@@ -21,7 +21,7 @@ Jeżeli chcemy, aby programy działały na innym porcie niż ```5000```, to nale
 
 1. Sklonowanie repozytorium
 
-- ```git clone ``` 
+- ```git clone https://github.com/alanpawlukiewicz/Zadanie-rekrutacyjne-AGH-Solar-Plane---Stacja-Naziemna.git``` 
 
 2. Przejście do folderu projektu
 
